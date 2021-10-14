@@ -9,7 +9,8 @@
 
 <p> Developed with the aim of learning and review Laravel framework, this API has default User CRUD, using JWT Authentication. </p>
 
-##EXTRAS
--** FullName **: rule for the user to enter at least two names;
--** StoreUserRequest **and** UpdateUserRequest **: classes created to standardize fields validation and clear the control classes.
--** ApiProtectionRoute**: middleware that controls routes preventing unauthorized users from accessing the system.
+## 💻 TIPS:
+
+<li>**FullName: rule for the user to enter at least two names.</li>
+<li>**StoreUserRequest** and **UpdateUserRequest**: classes created to standardize fields validation and clear the control classes.</li>
+<li>**ApiProtectionRoute**: middleware that controls routes preventing unauthorized users from accessing the system.</li>
